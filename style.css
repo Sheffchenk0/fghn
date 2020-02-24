@@ -9,7 +9,7 @@
     
 }
 
-body{width:100%; height:100%; overflow-x:hidden;}
+body{width:100%; height:100%; }
 
 .e3 , .e4 , .e5 , .e6 , .br2 , .angle , .human-ct , .angle-h , .services-mobile{
     display: none;
